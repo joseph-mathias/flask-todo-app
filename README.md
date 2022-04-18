@@ -3,15 +3,15 @@
 ToDo List App is a kind of app that generally used to maintain our day-to-day tasks or list everything that we have to do, with the most important tasks at the top of the list, and the least important tasks at the bottom. It is helpful in planning our daily schedules.
 
 ## Requirements
--python
+- python
 
--flask
+- flask
 
--sqlalchemy
+- sqlalchemy
 
--flask_sqlalchemy
+- flask_sqlalchemy
 
--Jinja 2
+- Jinja 2
 
 ## Sections
 - [Python-FLASK To Do App](#python-flask-to-do-app)
@@ -71,6 +71,6 @@ ___
 
 ## DOCS
 
--[HEROKU](https://devcenter.heroku.com/articles/heroku-cli)
+1. [HEROKU](https://devcenter.heroku.com/articles/heroku-cli)
 
--[GIT](https://git-scm.com/video/what-is-git)
+2. [GIT](https://git-scm.com/video/what-is-git)
